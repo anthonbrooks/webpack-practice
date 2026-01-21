@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/anthonbrooks/webpack-practice/issues"
   },
-  "homepage": "https://github.com/anthonbrooks/webpack-practice#readme"
+  "homepage": "https://github.com/anthonbrooks/webpack-practice#readme",
+  "devDependencies": {
+    "webpack": "^5.104.1",
+    "webpack-cli": "^6.0.1"
+  }
 }
